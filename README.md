@@ -1,4 +1,4 @@
-# jewlery
+# jewelery
 
 # STEP 1 :- CREATE VENV ENVIRONMENT 
 # STEP 2 :- ACTIVATED VENV
